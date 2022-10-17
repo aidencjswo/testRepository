@@ -9,10 +9,7 @@
 <body>
 	<h3>히히히</h3>
 	<p>test3에 유저1이 추가한내용</p>
-<<<<<<< HEAD
 	<p>ㅁㄴㅇㄹ</p>
-=======
 	<a href="#">아나</a>
->>>>>>> branch 'master' of https://github.com/aidencjswo/testRepository.git
 </body>
 </html>
