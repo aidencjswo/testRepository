@@ -12,7 +12,8 @@
 	<a href="/views/test01.jsp">페이지이동</a>
 	<a href="/views/test02.jsp">페이지  이동2</a>
 	<p>테스트 추가</p>
-	
+	<p>나어따가</p>
+	<p>추가한거야?</p>
 	<p>추가추가</p>
 	<span>에라이</span>
 </body>
